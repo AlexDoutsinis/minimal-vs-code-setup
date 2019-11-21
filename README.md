@@ -12,11 +12,9 @@
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - **Prettier:**
 
-  Install Prettier globally as node package: `npm install -g prettier`.
-
-  [Install Prettier as VS Code extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-  [Configuration](./.prettierrc)
+  - Install Prettier globally as node package: `npm install -g prettier`.
+  - [Install Prettier as VS Code extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  - [Configuration](./.prettierrc)
 
 - [VS Code Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 
