@@ -16,18 +16,7 @@
 
   [Install Prettier as VS Code extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-  Configuration:
-
-  ```
-  // .prettierrc
-
-  {
-    "semi": false,
-    "trailingComma": "all",
-    "singleQuote": true,
-    "printWidth": 70,
-  }
-  ```
+  [Configuration](./.prettierrc)
 
 - [VS Code Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 
