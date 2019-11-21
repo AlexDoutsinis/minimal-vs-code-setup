@@ -1,0 +1,16 @@
+{
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.fontWeight": "400",
+  "editor.lineHeight": 24,
+  "editor.letterSpacing": 0,
+  "editor.fontSize": 16,
+  "editor.parameterHints.enabled": false,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "'Fira Code Regular'",
+  "editor.fontLigatures": true,
+  "files.autoSave": "onFocusChange",
+  "html.suggest.html5": false,
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
