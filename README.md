@@ -1,4 +1,4 @@
-## My minimal VS Code Setup
+# My minimal VS Code Setup
 
 <br>
 
