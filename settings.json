@@ -12,5 +12,8 @@
   "editor.fontLigatures": true,
   "files.autoSave": "onFocusChange",
   "html.suggest.html5": false,
-  "javascript.updateImportsOnFileMove.enabled": "always"
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  // Csharp
+  "csharp.referencesCodeLens.enabled": false
+  // "editor.tabSize": 4,
 }

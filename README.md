@@ -10,13 +10,14 @@
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- **Prettier:**
+- **Prettier (JavaScript projects only):**
 
   - Install Prettier globally as node package: `npm install -g prettier`
   - [Install Prettier as VS Code extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - [Configuration](./.prettierrc)
 
 - [VS Code Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+- [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 
 <br>
 
